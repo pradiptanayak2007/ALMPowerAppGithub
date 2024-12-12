@@ -45,5 +45,5 @@ jobs:
       with:
         solution-folder: out/solutions/GitHubPowerApps
         solution-target-folder: solutions/GitHubPowerApps
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: ${{ secrets.patToken }}
         allow-empty-commit: true
