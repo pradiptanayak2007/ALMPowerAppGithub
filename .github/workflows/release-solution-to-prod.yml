@@ -23,7 +23,7 @@ jobs:
       uses: microsoft/powerplatform-actions/pack-solution@v0
       with:
         solution-folder: solutions/GitHubPowerApps
-        solution-file: out/solutions/GitHubPowerApps.zip
+        solution-file: out/solutions/GitHubPowerApps/GitHubPowerApps.zip
         solution-type: Unmanaged
 
     - name: Import solution as unmanaged to build env
