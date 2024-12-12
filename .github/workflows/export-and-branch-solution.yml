@@ -26,8 +26,8 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://praddev.crm8.dynamics.com'
-  USERNAME: 'AlexW@o365devpradipta.onmicrosoft.com'
+  ENVIRONMENT_URL: 'https://dev-pporg.crm8.dynamics.com/'
+  USERNAME: 'alexw@o365devpradipta.onmicrosoft.com'
 
 permissions:
   contents: write
