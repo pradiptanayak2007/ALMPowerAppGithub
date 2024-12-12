@@ -1,1 +1,9 @@
-
+{
+  "EnvironmentVariables": [
+    {
+      "SchemaName": "coe_AppUrl",
+      "Value": "https://apps.powerapps.com/play/e/e5f7424f-74c0-e1cf-9aaa-6d2358742b0c/a/47003023-b9bb-4674-b7ce-b9562fbbaac0?tenantId=d1ee1acd-bc7a-4bc4-a787-938c49a83906&source=portal"
+    }
+  ],
+  "ConnectionReferences": []
+}
